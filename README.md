@@ -4,7 +4,7 @@
   
 <a href="#">![SkillIcons](https://skillicons.dev/icons?i=androidstudio,arduino,git,js,nodejs,py,html,css,vscode,discord,ubuntu,debian,docker,jenkins,linux,lua,nginx,raspberrypi&perline=9)</a><br><br>
 Discord сервер: [KetaruCorp](https://discord.gg/5BM4XD3qxM)<br>
-Наш сайт: [ketaru.com](https://krcorp.ru)
+Наш сайт: [krcorp.ru](https://krcorp.ru)
 ---
 
 
