@@ -15,6 +15,8 @@ Discord сервер: [KetaruCorp](https://discord.gg/5BM4XD3qxM)<br>
   <img src="https://github-readme-stats-fast.vercel.app/api?username=kelixme&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelixme&layout=compact)
+
 ###
 
 <p align="center">
